@@ -1,0 +1,69 @@
+{
+  "selected": "weapon_4",
+  "weapons": [
+    {
+      "id": "hammer",
+      "name": "铁锤",
+      "type": "melee",
+      "damage": 1,
+      "range": 2.0,
+      "arc_deg": 35,
+      "swing_time": 0.35,
+      "impact_t": 0.45,
+      "knockback": 1.0,
+      "color": [
+        220,
+        200,
+        80
+      ]
+    },
+    {
+      "id": "fireball",
+      "name": "火球",
+      "type": "projectile",
+      "damage": 2,
+      "range": 12.0,
+      "speed": 6.0,
+      "radius": 0.3,
+      "cooldown": 0.6,
+      "splash_radius": 1.5,
+      "color": [
+        255,
+        120,
+        40
+      ]
+    },
+    {
+      "id": "weapon_3",
+      "name": "Gun",
+      "type": "projectile",
+      "damage": 4,
+      "range": 12.0,
+      "color": [
+        255,
+        197,
+        0
+      ],
+      "speed": 10.0,
+      "radius": 0.05,
+      "cooldown": 0.05,
+      "splash_radius": 1.2
+    },
+    {
+      "id": "weapon_4",
+      "name": "GOD",
+      "type": "melee",
+      "damage": 20,
+      "range": 20.0,
+      "color": [
+        255,
+        120,
+        40
+      ],
+      "arc_deg": 35,
+      "swing_time": 0.35,
+      "impact_t": 0.45,
+      "knockback": 1.0
+    }
+  ]
+}
